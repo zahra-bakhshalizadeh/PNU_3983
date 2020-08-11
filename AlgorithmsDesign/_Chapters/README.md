@@ -33,21 +33,10 @@
 ---
 ### اسامی دانشجویان  بر اساس فصلهای کتاب کارشناسی (دانشجویان ارشد)
 
-+ [سحر زینی وندمقدم]( https://saharzeinivand.github.io/)  
-  - [@saharzeinivand](https://github.com/saharzeinivand)
- 
- 
- 
-+ [سحر رجبی]( )  
-  - [@](http://github.com/Saharrajabi)
-  
- 
- 
- 
-+ [بهرام اسدپورنوروزعلی بیگلو]( )  
-  - [@akmcho](https://github.com/akmcho)
 
 
++ [بهرام اسد پور](https://akmcho.github.io) 
+    - [@akmcho](https://github.com/akmcho)
 
 
 
@@ -55,9 +44,8 @@
   - [@amirrauf106](https://github.com/amirrauf106)
   
   
-  
-  
-  
+ 
+ 
 + [بهرام بهنژاد](https://bahram200.github.io/Behnejad/ )  
   - [@bahram200](https://github.com/bahram200)
   
@@ -87,13 +75,16 @@
  
  
  
++ [سحر زینی وندمقدم]( https://saharzeinivand.github.io/)  
+  - [@saharzeinivand](https://github.com/saharzeinivand)
+  
+  
+ 
 + [عباس صالحی](https://soheilemail.github.io/ )  
-  - [@soheilemail]()
+  - [@soheilemail](https://github.com/soheilemail)
   
   
-  
-  
-  
+
 + [کرامت صدیقی]( )  
   - [@sedighikaramat](https://github.com/sedighikaramat)
   
@@ -103,7 +94,7 @@
   
   
 + [پوریا صفری]( https://pooriasafari.github.io)  
-  - [@pooriasafari]()
+  - [@pooriasafari](https://github.com/pooriasafari)
   
   
   
